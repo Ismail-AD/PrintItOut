@@ -22,20 +22,19 @@
 ## ✨ Features Overview
 
 ### 📦 **Smart Order Management & Printing**
-- **📡 Order Fetching** - Get orders from API using OkHttp library for fast and reliable data retrieval
-- **🖨️ Print Orders** - Print fetched orders directly using Printama library with seamless integration
-- **🔄 Auto Print Mode** - Automatically fetch and print new orders every 1 minute without manual intervention
+- **📡 Order Fetching** - Get orders from API using OkHttp library 
+- **🖨️ Print Orders** - Print fetched orders directly using Printama library
+- **🔄 Auto Print Mode** - Automatically fetch and print new orders every 1 minute without manual intervention using services
 - **📱 Device Pairing** - Shows list of paired Bluetooth devices to easily select your printer
 - **📋 Print Options** - Choose to print all orders at once or select single orders for printing
-- **⚡ Real-time Updates** - Stay updated with latest orders from your system instantly
 
 ### 🔧 **Simple 3-Step Process**
 **1️⃣ Permissions** - App requests necessary permissions for Bluetooth and printing access  
 **2️⃣ Device Selection** - Choose your printer from the list of paired Bluetooth devices  
 **3️⃣ Print Mode** - Select your preferred printing option:
-- ⭕ **Print All Orders** - Fetch and print the complete collection of orders
-- ⭕ **Print Single Order** - Fetch and print one specific order  
-- ⭕ **Auto Print** - Automatically fetch and print new orders every minute
+- **Print All Orders** - Fetch and print the complete collection of orders
+- **Print Single Order** - Fetch and print one specific order  
+- **Auto Print** - Automatically fetch and print new orders every minute
 
 ---
 
